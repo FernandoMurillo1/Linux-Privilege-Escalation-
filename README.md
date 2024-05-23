@@ -25,3 +25,4 @@ With linux Privilege Escalation is to gain elevated acess to resources that are 
 
 ## Steps 
 
+https://docs.google.com/document/d/1dmiMziTdOq-AxNQSrHcP6mnPF2VwLkZ_XbT_syw05LU/edit
