@@ -5,7 +5,6 @@
 With linux Privilege Escalation is to gain elevated acess to resources that are normally protected from the stadard users of a system. Specifically, it involved obtaining adminerstrative (root) privileges to perform actions that are otherwise restricted. 
 
 ### Skills Learned 
-[Bullet Points] 
 
 - Access Control Bypass allows a user to bypass access controls and security measures put in plae to protect system integrity and user data.
 - System Controls while elevating privileges a user can control system process and install or uninstall software to be able to congifgure and make changes to the whole system.
@@ -14,7 +13,6 @@ With linux Privilege Escalation is to gain elevated acess to resources that are 
 - Explotation in Privilege escalation is on the largers scale or the attack chain, It also allows the attacker to get into the system and move laterally across a network.
 
 ### Tools Used 
-[Bullet Points] 
 
 - LinPEAS is a script that searches for possible paths to escalate privileges on Linux machines
 - Metaslpoit is a computer security poroject that provides data on security vulnerabilties and help with penetration testing, and contains modules for local explotation such as privilege escalation exploits
